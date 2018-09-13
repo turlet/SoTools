@@ -1,0 +1,13 @@
+﻿  Moc'ing SoTools.h...
+  Moc'ing SectionWindow.h...
+  ElfUtil.cpp
+  ElfParse.cpp
+  ElfReader.cpp
+  getphdr.cpp
+  getshdr.cpp
+  main.cpp
+  SectionWindow.cpp
+  SoTools.cpp
+  moc_SoTools.cpp
+  moc_SectionWindow.cpp
+  SoTools.vcxproj -> D:\Visual Studio 2015\SoTools\x64\Release\SoTools.exe

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/SoTool">
+        <file>Resources/icon/exit.ico</file>
+        <file>Resources/icon/file_open.ico</file>
+    </qresource>
+</RCC>
